@@ -1,0 +1,386 @@
+!':!'
+!,:!,
+!.:!.
+!;:!;
+!d:!ed
+!e:!es
+!g:!ing
+!l:!ly
+!r:!er
+!s:!s
+!x:!tion
+!y:!y
+'d:!'d
+'l:!'ll
+'n:!n't
+'r:!'re
+'s:!'s
+'v:!'ve
+a :a
+ab:about
+abl:able
+abm:maybe
+acf:fact
+ach:change
+acl:call
+acm:came
+acs:case
+aeh:each
+aehd:head
+aemn:mean
+aey:year
+af:after
+afmr:farm
+afr:far
+ag:again
+agn:gonna
+ah:has
+ahn:than
+aho:although
+aitw:wait
+al :all the
+al:all
+ald:already
+alt:late
+alw:always
+am :am the
+am:am
+am_:am a
+amn:man
+ams:same
+amy:may
+an:an
+ano:another
+anw:want
+ao:also
+ar :are the
+ar!:aren't
+ar:are
+ar_:are a
+ard:around
+are:real
+as :as the
+as:as
+as_:as a
+asi:as if
+ast:status
+at :at the
+at:at
+at_:at a
+atw:await
+aty:today
+aw :was the
+aw!:wasn't
+aw:was
+aw_:was a
+awy:away
+b :be
+be :be the
+be_:be a
+bei :being
+ben:been
+bf:before
+bk:back
+bkw:backward
+blv:believe
+blw:will be
+bm:become
+bn:begin
+bo:both
+bot:to be
+brt:better
+brv:everybody
+bst :best
+btu :but the
+btu:but
+btu_:but a
+btw:between
+by :by the
+by:by
+by_:by a
+cdl:declare
+chm:much
+chs:such
+ci :with the
+ci:with
+ci_:with a
+cl!:couldn't
+cl:could
+clu:actual
+cluy:actually
+cm:come
+cmpr:computer
+cn :can the
+cn!:can't
+cn:can
+cn_:can a
+cnot:cannot
+cnrt:container
+cns:since
+co:once
+copr:process
+ct :without the
+ct:without
+ct_:without a
+cw :which the
+cw:which
+cw_:which a
+d :ed
+de :and the
+de:and
+de_:and a
+den:end
+dg:good
+dh :had the
+dh:had
+dh_:had a
+di!:didn't
+di:did
+dlw:would
+dn:done
+do!:don't
+do:do
+dor:order
+douy:you'd
+drv:everyday
+dry:ready
+ds!:doesn't
+ds:does
+dy:day
+e :es
+ehs:she
+eim:sometime
+eims:sometimes
+eit:time
+elf:left
+elp:please
+els:select
+elt:let
+elw:well
+em:me
+en :need the
+en:need
+en_:need a
+enr:never
+ent:need to
+enw:new
+ep:people
+er:here
+ert:return
+est:set
+esu:use
+et:the
+ev:even
+evr:ever
+ew:we
+ewr:whether
+fci:find
+fgm:moving
+fi :if the
+fi:if
+fi_:if a
+fir:first
+fm:move
+fmor:form
+fmr :from the
+fmr:from
+fmr_:from a
+fo :of the
+fo:of
+fo_:of a
+fpr:printf
+fr :for the
+fr:for
+fr_:for a
+fx:function
+g :ing
+gh:thing
+ghn:anything
+ghno:nothing
+gim:might
+gio:going
+gms:something
+gno:gone
+gnt:going to
+go:go
+got:got
+grt:great
+grv:everything
+gs:guess
+gt:get
+gv:give
+h :how
+he:he
+hgv:having
+hi:this
+him:him
+hiw:while
+hk:think
+hkns:thanks
+hm:them
+hmo:home
+hn:then
+ho:those
+hot:other
+hou:though
+hov:however
+how:whose
+hp:help
+hs:these
+ht :that the
+ht!:that's
+ht:that
+ht_:that a
+htu:through
+hv!:haven't
+hv:have
+hw:where
+hy:they
+i :I
+igt:git
+ikl :like the
+ikl:like
+ikl_:like a
+il:I'll
+ils:list
+ilst:still
+ilt:little
+im:I'm
+imp:important
+in :in the
+in:in
+in_:in a
+int :into the
+int:into
+int_:into a
+ir:right
+irt:their
+is :is the
+is!:isn't
+is:is
+is_:is a
+ist:its
+it! :it's the
+it!:it's
+it!_:it's a
+it:it
+iv:I've
+iw :will the
+iw!:won't
+iw:will
+iw_:will a
+jm :made the
+jm:made
+jm_:made a
+jst :just the
+jst:just
+jst_:just a
+km :make the
+km:make
+km_:make a
+kn:know
+kp:keep
+ks :because the
+ks:because
+ks_:because a
+kw:work
+l :ly
+lk:look
+lks:looks
+lno :only the
+lno:only
+lno_:only a
+louy:you'll
+ls :should the
+ls!:shouldn't
+ls:should
+ls_:should a
+lst:last
+lt:tell
+lv:leave
+lw!:wouldn't
+mn:many
+mno:money
+mo:most
+moy:mostly
+mr:more
+ms:some
+msy:system
+mu!:must've
+mu:must
+my:my
+n :no
+n!:ain't
+no :on the
+no:on
+no_:on a
+now:now
+nr:near
+nt :not the
+nt:not
+nt_:not a
+nto :onto the
+nto:onto
+nto_:onto a
+nw :when the
+nw:when
+nw_:when a
+nx:next
+ny:any
+op:open
+or :or the
+or:or
+or_:or a
+ort:tomorrow
+oru:our
+oruy:your
+orv:everyone
+orw:world
+os :so the
+os:so
+os_:so a
+ot :to the
+ot:to
+ot_:to a
+otu:out
+ouvy:you've
+ouy:you
+ov :over the
+ov:over
+ov_:over a
+ow:who
+pr:print
+pu:up
+qr:request
+qry:query
+r :er
+rs:sure
+rt:there
+rv:every
+rw :were the
+rw!:weren't
+rw:were
+rw_:were a
+rwv:everywhere
+ry:really
+s :s
+sty:yesterday
+su:us
+tk :take the
+tk:take
+tk_:take a
+tok :took the
+tok:took
+tok_:took a
+tu:too
+tw :what the
+tw:what
+tw_:what a
+unt :until the
+unt:until
+unt_:until a
+uy:way
+vy:very
+wy:why
+x :ion
+y :y
